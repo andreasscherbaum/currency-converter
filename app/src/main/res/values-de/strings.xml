@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Währungsrechner</string>
+
+    <!-- Main Screen -->
+    <string name="from_currency">Von</string>
+    <string name="amount">Betrag</string>
+    <string name="favorite_currencies">Favoritenwährungen</string>
+    <string name="last_updated">Zuletzt aktualisiert: %1$s</string>
+    <string name="update_rates">Kurse aktualisieren</string>
+    <string name="updating">Aktualisiere...</string>
+    <string name="update_failed">Aktualisierung fehlgeschlagen</string>
+    <string name="update_success">Kurse aktualisiert</string>
+
+    <!-- Calculator Buttons -->
+    <string name="btn_delete">ENTF</string>
+    <string name="btn_clear">AC</string>
+    <string name="btn_decimal">,</string>
+
+    <!-- Menu -->
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_about">Über</string>
+    <string name="menu_currencies">Währungen</string>
+    <string name="menu_history">Verlauf</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_language">Sprache</string>
+    <string name="settings_dark_mode">Dunkler Modus</string>
+    <string name="settings_favorite_currencies">Favoritenwährungen</string>
+    <string name="language_system">Systemstandard</string>
+    <string name="language_english">Englisch</string>
+    <string name="language_german">Deutsch</string>
+
+    <!-- About Screen -->
+    <string name="about_title">Über</string>
+    <string name="about_version">Version</string>
+    <string name="about_build">Build</string>
+    <string name="about_source_code">Quellcode</string>
+    <string name="about_author">Autor</string>
+    <string name="about_website">Webseite</string>
+    <string name="about_description">Währungsrechner verwendet Wechselkurse der Europäischen Zentralbank (EZB).</string>
+    <string name="about_data_source">Datenquelle</string>
+    <string name="about_ecb">Europäische Zentralbank</string>
+
+    <!-- Currencies Screen -->
+    <string name="currencies_title">Alle Währungen</string>
+    <string name="currency_rate">Kurs</string>
+    <string name="base_currency">Basis: EUR</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Verlauf</string>
+    <string name="history_empty">Kein Umrechnungsverlauf</string>
+    <string name="history_from">Von:</string>
+    <string name="history_converted_at">Umgerechnet am:</string>
+
+    <!-- Download Prompt -->
+    <string name="download_prompt_title">Währungsdaten herunterladen</string>
+    <string name="download_prompt_message">Keine Währungsdaten vorhanden. Möchten Sie die aktuellen Wechselkurse herunterladen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <string name="search">Suchen</string>
+    <string name="no_data">Keine Daten verfügbar</string>
+    <string name="error_loading">Fehler beim Laden der Daten</string>
+    <string name="retry">Erneut versuchen</string>
+</resources>
